@@ -1,0 +1,1 @@
+This project was inteneded to pratice my skills related to flexbox, grid, and creating hamburger menus. The only two navigatable pages are the breads and company page. I will discontinue work on this project.
