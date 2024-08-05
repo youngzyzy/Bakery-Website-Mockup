@@ -93,9 +93,9 @@ a {
 
 .navbar-bottom__logo {
   position: absolute;
-  width: 240px;
+  width: 180px;
   height: auto;
-  top: 10%;
+  top: -5%;
   left: 2%;
 }
 
