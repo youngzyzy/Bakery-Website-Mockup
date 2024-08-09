@@ -638,6 +638,15 @@ a {
   border-radius: 10px;
 }
 
+.about-main-pic__container {
+  background: #000 url(../images/background-about.jpg) center center/cover
+    no-repeat;
+  height: 450px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 @media (max-width: 1400px) {
   .navbar-bottom__logo {
     width: 180px;
