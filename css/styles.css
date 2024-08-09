@@ -612,11 +612,11 @@ a {
   padding: 4rem 2rem;
   display: flex;
   flex-direction: column;
-  gap: 5rem;
+  gap: 6rem;
 }
 .about__item {
   display: flex;
-  gap: 3rem;
+  gap: 4rem;
   align-items: center;
   justify-content: center;
 }
@@ -792,6 +792,9 @@ a {
   }
   .about__text {
     max-width: 500px;
+  }
+  .about__text-container {
+    gap: 1.5rem;
   }
 }
 
