@@ -714,6 +714,7 @@ a {
     display: flex;
     flex-direction: column;
     gap: 0.1rem;
+    color: black;
   }
   .form__left {
     border: 1px solid black;
