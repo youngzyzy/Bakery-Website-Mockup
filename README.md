@@ -1,1 +1,1 @@
-This project was inteneded to pratice my skills related to creating attractive frontend layouts, utilizing flexbox, grid, and basic javascript. It is a mockup of a fictional bakery website.
+This website is a mockup of a fictional bakery. It uses basic html and css for an attractive front end layout and it uses simple vanilla js for the hamburger menu. I have made it responsive for a multitude of device widths, from computers, to small mobile devices. I utilized mostly flexbox, grid, and media queries to achieve responsiveness.
